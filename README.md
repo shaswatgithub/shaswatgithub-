@@ -1,4 +1,4 @@
-# shaswatgithub-
+# shaswatgithub
 # Shaswatiitk
 ![logo](https://github.com/shaswatgithub/Shaswatiitk/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
